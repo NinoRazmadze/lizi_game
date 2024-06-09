@@ -142,7 +142,7 @@ btnHold.addEventListener("click", function () {
       scores[activePlayer];
 
     //check if score >=100
-    if (scores[activePlayer] >= 50) {
+    if (scores[activePlayer] >= 60) {
       playing = false;
       diceEl.classList.add("hidden");
       playWinningSound();
