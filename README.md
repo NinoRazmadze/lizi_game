@@ -1,1 +1,1 @@
-# lizi_game
+# lizi-game
